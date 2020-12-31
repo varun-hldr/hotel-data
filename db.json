@@ -1,0 +1,86 @@
+{
+  "booking": [
+    {
+      "id": 1,
+      "userName": "Rahul",
+      "hotelName": "Hometel Chandigarh",
+      "cost": 2419,
+      "StartDate": "2020-12-27",
+      "EndDate": "2021-1-2",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "userName": "Rohit",
+      "hotelName": "Vivaan - The Sun Rise",
+      "cost": 2419,
+      "StartDate": "2020-12-28",
+      "EndDate": "2021-1-6",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "userName": "Aman",
+      "hotelName": "DoubleTree by Hilton",
+      "cost": 2419,
+      "StartDate": "2020-12-29",
+      "EndDate": "2021-1-7",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "userName": "Rishu",
+      "hotelName": "Amanora The Fern Hotels",
+      "cost": 3455,
+      "StartDate": "2021-1-5",
+      "EndDate": "2021-1-9",
+      "status": "Pending"
+    }
+  ],
+  "admin": [
+    {
+      "id": 11,
+      "name": "Varun",
+      "email": "varun@123",
+      "password": "12345"
+    },
+    {
+      "id": 12,
+      "name": "Akash",
+      "email": "akash@123",
+      "password": "12345"
+    }
+  ],
+  "users": [
+    {
+      "id": 21,
+      "name": "Atul",
+      "email": "atul@123",
+      "password": "12345"
+    },
+    {
+      "id": 22,
+      "name": "Rohit",
+      "email": "rohit@123",
+      "password": "12345"
+    },
+    {
+      "id": 23,
+      "name": "Rahul",
+      "email": "rahul@123",
+      "password": "12345"
+    },
+    {
+      "id": 24,
+      "name": "Aman",
+      "email": "aman@123",
+      "password": "12345"
+    },
+    {
+      "id": 25,
+      "name": "Rishu",
+      "email": "rishu@123",
+      "password": "12345"
+    }
+  ]
+}
